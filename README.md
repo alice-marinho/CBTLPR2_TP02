@@ -2,7 +2,7 @@
 
 1. Desenvolver o seguinte sistema abaixo, empregando os conhecimentos adquiridos nas
 aulas sobre interfaces gráficas em java.
- - Criar a seguinte classe Aluno, conforme diagrama:
+ - Criar a seguinte classe Aluno, conforme diagrama:  
     ![alt text](image.png)
 
 - Implementar o formulário possibilitando ao usuário cadastrar uma lista de alunos,

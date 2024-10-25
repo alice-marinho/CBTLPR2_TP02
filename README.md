@@ -1,18 +1,25 @@
-## Getting Started
+## TP2 - Linguagem de programação Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Desenvolver o seguinte sistema abaixo, empregando os conhecimentos adquiridos nas
+aulas sobre interfaces gráficas em java.
+ - Criar a seguinte classe Aluno, conforme diagrama:
+    ![alt text](image.png)
 
-## Folder Structure
+- Implementar o formulário possibilitando ao usuário cadastrar uma lista de alunos,
+respeitando as seguintes regras:  
+    - Quando o botão Ok for pressionado os dados contidos em tela devem ser armazenados em memória (utilizar a interface List <E> em conjunto com a classe ArrayList<E> para armazenar a lista de alunos
+    cadastrados em memória)  
+    - Limpar apaga o conteúdo dos labels.  
+    - Botão Mostrar exibe o pop-up a ser desenvolvido no item (C) deste trabalho.  
+    - Botão Sair encerra a aplicação.
 
-The workspace contains two folders by default, where:
+    ![alt text](image-1.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Criar o mecanismo de exibição abaixo, que contempla todos os ids e nomes dos alunos
+cadastrados nesta execução do programa, utilizando a classe: `JOptionPane.showMessageDialog(this, mensagem);`
+    ![alt text](image-2.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Alunas
+- Alice Marinho CB3025772
+- Bianca Ribeiro CB3025683
